@@ -1,0 +1,11 @@
+.feedback {
+  margin: 0 auto;
+  padding-bottom: 20px;
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
+
+button[type='button'] {
+  padding: 5px 20px;
+}
